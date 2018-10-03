@@ -1,4 +1,3 @@
-import kotlin.test.asserter
 
 fun added(a:Int, b:Int):Int {
     return a+b
